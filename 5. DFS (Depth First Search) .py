@@ -1,6 +1,6 @@
 # 5. DFS (Depth First Search) 
 # algoritma pencarian yang menjelajahi node secara mendalam sebelum melanjutkan ke node lain. 
-# Selesai praktikum se
+# Selesai praktikum s
 
 from collections import deque
 
